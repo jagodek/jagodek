@@ -16,6 +16,7 @@ Technologies I have worked with at my university include:
 * Python, NumPy, Pandas and other libraries
 * C/C++
 
+Checkout my front-end Trips project 
 
 <!---
 jagodek/jagodek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
