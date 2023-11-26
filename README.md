@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, web development, java
 - 🌱 I’m currently learning css, angular, java, python. Also writing engineering project [Hotel Simulator](https://github.com/Hotel-Simulator/Hotel-Simulator)
 - 💞️ I’m looking for job related to frontend or java
-- 📫 How to reach me: [faceebook](facebook.com/mchl.gdk) or [mail](michal.godek01@gmail.com)
+- 📫 How to reach me: [faceebook](facebook.com/mchl.gdk) or michal.godek01@gmail.com
 
 _AGH University of Science and Technology_ 
 
