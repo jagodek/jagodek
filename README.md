@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jagodek
+- 👋 Hi, I’m Michał Godek
 - 👀 I’m interested in computer science, web development, java
-- 🌱 I’m currently learning css, angular, java
-- 💞️ I’m looking to collaborate on angular
-- 📫 How to reach me facebook.com/mchl.gdk or godek.main@gmail.com
+- 🌱 I’m currently learning css, angular, java, python
+- 💞️ I’m looking for job related to frontend or java
+- 📫 How to reach me facebook.com/mchl.gdk or michal.godek01@gmail.com
 
 _AGH University of Science and Technology_ 
 
@@ -14,7 +14,7 @@ Technologies I have worked with at my university include:
   * Angular
 * Java
 * Python, NumPy, Pandas and other libraries
-* C/C++
+
 
 Checkout my front-end Trips project 
 
