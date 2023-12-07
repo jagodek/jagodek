@@ -4,7 +4,7 @@
 - 💞️ I’m looking for job related to frontend or java
 - 📫 How to reach me: [facebook](https://facebook.com/mchl.gdk) or michal.godek01@gmail.com
 
-_AGH University of Science and Technology_ 
+_AGH University of Science and Technology_ , Kraków, Poland
 
 Technologies I can work:
 * Web development including:
