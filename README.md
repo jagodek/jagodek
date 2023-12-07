@@ -6,7 +6,7 @@
 
 _AGH University of Science and Technology_ 
 
-Technologies I have worked with at my university include:
+Technologies I can work:
 * Web development including:
   * HTML
   * CSS
@@ -15,6 +15,8 @@ Technologies I have worked with at my university include:
 * Java
 * Python, NumPy, Pandas and other libraries
 
+Technologies I had contact with during my studies:
+C, C++, Scala, R, Matlab, SQL, Haskell, Sprign boot, Hibernate, PyTorch, ScikitLearn
 
 Checkout my angular [Trips](https://github.com/jagodek/Trips) project 
 
