@@ -1,24 +1,10 @@
 - 👋 Hi, I’m Michał Godek
-- 👀 I’m interested in computer science, web development, java
-- 🌱 I’m currently learning css, angular, java, python. Also writing engineering project [Hotel Simulator](https://github.com/Hotel-Simulator/Hotel-Simulator)
-- 💞️ I’m looking for job related to frontend or java
+- 👀 I’m interested in computer science and programming
+- 🌱 I’m currently learning docker, python, flask, celery. Also writing engineering project [Yaptide](https://github.com/yaptide/yaptide)
 - 📫 How to reach me: michal.godek01@gmail.com
 
-_AGH University of Science and Technology_ , Kraków, Poland
+_AGH University of Kraków_ , Poland
 
-Technologies I can work with:
-* Web development including:
-  * HTML
-  * CSS/SASS
-  * JS
-  * Angular
-* Java
-* Python, NumPy, Pandas
-
-Technologies I had contact with during my studies:
-C, C++, Scala, R, Matlab, SQL, Haskell, Sprign boot, Hibernate, PyTorch, ScikitLearn
-
-Checkout my angular [Trips](https://github.com/jagodek/Trips) project 
 
 <!---
 jagodek/jagodek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
